@@ -1,6 +1,8 @@
 # koa-pjax-demo
 A koa pjax demo
 
+Demo for koa-pjax: [koa-pjax](https://github.com/exculibar/koa-pjax)<br>
+
 ```Bash
 cd your_path/koa-pjax-demo/
 npm install
