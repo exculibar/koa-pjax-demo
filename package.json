@@ -1,0 +1,33 @@
+{
+  "name": "koa-pjax-demo",
+  "version": "0.0.1",
+  "description": "A koa pjax demo",
+  "author": {
+    "name": "gaolool",
+    "email": "gaolool@qq.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "koa",
+    "koajs",
+    "pjax",
+    "jquery.pjax",
+    "demo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/exculibar/koa-pjax-demo.git"
+  },
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "dependencies": {
+    "koa": "~0.21.0",
+    "koa-route": "~2.4.2",
+    "koa-static": "~1.4.9",
+    "koa-pjax": "~0.0.1",
+    "swig": "~1.4.2",
+    "co-views": "~1.0.0"
+  }
+}
